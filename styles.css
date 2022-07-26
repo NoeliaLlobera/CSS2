@@ -1,0 +1,13 @@
+main {
+    width: 800px;
+    margin: 0px auto;
+    font-family: sans-serif;
+    
+}
+input{
+  background-color: aquamarine;
+}
+input:out-of-range{
+    background-color: red;
+  }
+
